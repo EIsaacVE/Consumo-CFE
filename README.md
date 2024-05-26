@@ -1,2 +1,2 @@
 # Consumo-CFE
-Consumo energético.
+Consumo energético para el total de Kwh.
